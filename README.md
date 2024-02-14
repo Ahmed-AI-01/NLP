@@ -46,5 +46,4 @@ Evaluate the performance of the trained models on the testing dataset using the 
 - Precision
 - Recall
 
-## Repository Structure
 
